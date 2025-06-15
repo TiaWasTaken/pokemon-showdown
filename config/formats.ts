@@ -84,7 +84,7 @@ export const Formats: import('../sim/dex-formats').FormatList = [
       name: "[Gen 9] Iscriviti al canale!",
       desc: "Tutti i Pokémon legali, niente team preview.",
       mod: 'gen9',
-      ruleset: ['Obtainable', 'Species Clause', 'Sleep Clause Mod', 'OHKO Clause', 'Evasion Items Clause'], // NON inserire 'Team Preview'
+      ruleset: ['Species Clause', 'Sleep Clause Mod', 'OHKO Clause', 'Evasion Items Clause'], // NON inserire 'Team Preview'
       banlist: [], // accetta tutti i Pokémon ottenibili
 		searchShow: true,
 	},
