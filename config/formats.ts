@@ -292,14 +292,7 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 		name: "[Gen 9] Ubers UU",
 		mod: 'gen9',
 		ruleset: ['[Gen 9] Ubers'],
-		banlist: [
-			// Ubers OU
-			'Arceus-Normal', 'Arceus-Fairy', 'Arceus-Ghost', 'Arceus-Ground', 'Arceus-Water', 'Calyrex-Ice', 'Chien-Pao', 'Deoxys-Attack', 'Deoxys-Speed', 'Dondozo',
-			'Eternatus', 'Flutter Mane', 'Giratina-Origin', 'Glimmora', 'Gliscor', 'Groudon', 'Hatterene', 'Ho-Oh', 'Kingambit', 'Koraidon', 'Kyogre', 'Kyurem-Black',
-			'Landorus-Therian', 'Lunala', 'Miraidon', 'Necrozma-Dusk-Mane', 'Rayquaza', 'Ribombee', 'Skeledirge', 'Ting-Lu', 'Zacian-Crowned',
-			// Ubers UUBL + Lunala, Arceus-Ghost, Arceus-Water
-			'Arceus-Dragon', 'Arceus-Fire', 'Arceus-Flying', 'Arceus-Steel', 'Necrozma-Dawn-Wings', 'Shaymin-Sky', 'Zacian', 'Zekrom',
-		],
+		banlist: [],
 	},
 	{
 		name: "[Gen 9] ZU",
